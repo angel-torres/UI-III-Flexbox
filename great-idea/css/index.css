@@ -238,7 +238,7 @@ header a {
 	justify-content: space-evenly;
 }
 
-ul li {
+.bottom-left-section ul li {
 	list-style-type: square;
 	padding-left: 15px;
 	justify-content: space-evenly;
